@@ -8,12 +8,12 @@
     <div class="row">
         <div class="col-12 ml-auto mr-auto mb-4">
             <div class="multisteps-form__progress">
-                <button class="multisteps-form__progress-btn js-active" type="button">ประเภทการขอพนักงาน (Type of
+                <button class="multisteps-form__progress-btn js-active" type="button" disabled>ประเภทการขอพนักงาน (Type of
                     Recruitment)</button>
-                <button class="multisteps-form__progress-btn" type="button">คุณสมบัติ (Qualification Required)</button>
-                <button class="multisteps-form__progress-btn" type="button">การควบคุมจำนวนพนักงาน (Headcount
+                <button class="multisteps-form__progress-btn" type="button" disabled>คุณสมบัติ (Qualification Required)</button>
+                <button class="multisteps-form__progress-btn" type="button" disabled>การควบคุมจำนวนพนักงาน (Headcount
                     Control)</button>
-                <button class="multisteps-form__progress-btn" type="button">รายชื่อพนักงาน (Employee List) </button>
+                <button class="multisteps-form__progress-btn" type="button" disabled>รายชื่อพนักงาน (Employee List) </button>
             </div>
         </div>
     </div>
